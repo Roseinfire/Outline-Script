@@ -1,0 +1,19 @@
+OutlineScript 1.12
+  
+  <<[Name](arg1, arg2, ..):
+     
+   >>
+  
+  F[name](arg1, arg2, ..) | result |
+  
+  V[name](?type)| ?value |
+  
+  A[name](?type)
+  
+  X => Y
+  
+  .X
+    
+   <[name]:
+     
+    >
